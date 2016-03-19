@@ -1,6 +1,8 @@
 goproxy 正式版下载 [https://git.io/goproxy](https://github.com/phuslu/goproxy/releases)
 
 ## 讨论区
+
+[![Join the chat at https://gitter.im/phuslu/goproxy](https://badges.gitter.im/phuslu/goproxy.svg)](https://gitter.im/phuslu/goproxy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 * https://github.com/phuslu/goproxy/issues?q=sort:updated-desc
 
 ## 文档
